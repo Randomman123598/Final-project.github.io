@@ -32,7 +32,7 @@ A third summary. For example: A weather dashboard that pulls real-time data from
 
 ## Links
 
-- **GitHub Repository:** 
+- **GitHub Repository:** https://github.com/Randomman123598/Final-project.github.io/tree/main
 - **Live Site (GitHub Pages):** https://randomman123598.github.io/Final-project.github.io/
 
 ---
