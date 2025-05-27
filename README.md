@@ -1,6 +1,6 @@
 # Final-project.github.io Jalil Johnson
 
-My name is Jalil Johnson, a student at Mt Eden High School in Ap Comp-Sci a programmer learning how to build functional, creative, and user-friendly web applications. Over the past year, I’ve explored front-end and back-end development tools, practiced writing clean and efficient code, and learned how to turn ideas into interactive digital experiences. I'm continuing to grow as a programmer in this class and always looking for new ways to challenge myself and improve my skills.
+My name is Jalil Johnson, a student at Mt Eden High School in Ap Comp-Sci a programmer learning how to build functional, creative, and user web applications. Over the past year, I’ve explored front-end and back-end development tools, practiced writing clean and efficient code, and learned how to turn ideas into interactive digital experiences. I'm continuing to grow as a programmer in this class and always looking for new ways to challenge myself and improve my skills.
 
 About This Project
 
